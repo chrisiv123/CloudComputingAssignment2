@@ -1,3 +1,4 @@
+/* Styles for the overall feel of the app */
 body{
    background-color: #fff;
     font-family: "Lato", sans-serif;
@@ -51,10 +52,6 @@ form , #player{
   display: block;
   
 }
-
 .sidebar a:hover {
   color: #fff;
 }
-
-
-

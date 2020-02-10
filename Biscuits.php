@@ -57,7 +57,6 @@ if (isset($_POST['email']))
             <a href="Salad.php">Salad</a>
             <a href="SendUsPics.php">Send us pictures</a>
         </div>
-
         <!-- First headder-->
         <h2>Biscuits recipe</h2>
         <!-- Explanation of a Biscuit-->

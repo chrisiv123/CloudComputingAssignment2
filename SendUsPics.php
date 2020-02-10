@@ -16,7 +16,7 @@ form {
 </head>
 <body>
 <div id="Sidebar" class="sidebar">
-    <a href="mainpage.php">Home</a>
+    <a href="index.php">Home</a>
   <a href="gallery.php">Gallery</a>
   <a href="Biscuits.php">Biscuits</a>
   <a href="Salad.php">Salad</a>

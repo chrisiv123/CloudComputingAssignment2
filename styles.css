@@ -1,0 +1,60 @@
+body{
+   background-color: #fff;
+    font-family: "Lato", sans-serif;
+}
+h2{
+  color: #000;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+  padding-left: 230px;
+  font-size: 200%;
+}
+h3{
+  color: #808080;
+  text-transform: none;
+  margin-bottom: 30px;
+  font-style: italic;
+  padding-left: 230px;
+  font-size: 150%;
+}
+table {
+   padding-left: 202px; 
+}
+p{
+  font-style: oblique;
+  color: #808080;
+  margin-left: 220px;
+    
+}
+
+form , #player{
+   margin-left: 220px; 
+    
+}
+
+.sidebar {
+  height: 100%;
+  width: 220px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  padding-top: 25px;
+}
+
+.sidebar a {
+  font-weight: bold;
+  padding: 10px 10px 10px 15px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  
+}
+
+.sidebar a:hover {
+  color: #fff;
+}
+
+
+
